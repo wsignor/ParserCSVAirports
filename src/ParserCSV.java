@@ -17,7 +17,7 @@ public class ParserCSV {
     private static final char DEFAULT_QUOTE = '"';
 
     public static void main(String[] args) throws Exception {
-        String csvFile = "C:\\Users\\Wagner\\IdeaProjects\\ParserCSVAirports\\src\\Ano-2017.csv";
+        String csvFile = "C:\\Users\\Wagner\\IdeaProjects\\ParserCSVAirports\\src\\Ano-2016.csv";
 
         BufferedReader br = null;
         String line = "";
